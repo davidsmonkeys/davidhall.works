@@ -9,7 +9,8 @@ collections:
     title: Uploads
     output: true
 email: davidsmonkeys@hotmail.com
-description: A collection of notes for me. If comprehensible and useful to others, great.
+description: A collection of notes for me. If comprehensible and useful to others,
+  great.
 baseurl: notes.davidhall.works
 url: http://notes.davidhall.works
 github_username: davidsmonkeys
