@@ -5,3 +5,6 @@ layout: post
 ---
 
 # Lets have a look at what happens when I post
+
+Can I drag images onto here? - No
+
